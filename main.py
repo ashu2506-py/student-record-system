@@ -201,20 +201,6 @@ def main():
             break
         
         else:
-            print("Invalid Choice! Please Enter between 1 to 6.")
-        
-        
-        
-        
-        # def add():
-            
-        # def view():
-        
-        # def search():
-        
-        # def update():
-        
-        # def delete():
-        
+            print("Invalid Choice! Please Enter between 1 to 6.")  
         
 main()
