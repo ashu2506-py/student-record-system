@@ -34,3 +34,7 @@ student-record-system/
 ├── README.md
 └── .gitignore
 ```
+
+## 📸 Project Screenshot
+
+![Project Screenshot](image-1.png)
